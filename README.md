@@ -1,1 +1,1 @@
-# parallax effect script with css styling
+parallax effect script with css styling
